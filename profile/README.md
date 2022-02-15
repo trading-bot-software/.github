@@ -1,1 +1,5 @@
 ![Build](https://github.com/trading-bot-software/trading-bot-common/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/trading-bot-software/trading-bot-api/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/trading-bot-software/trading-bot-connector-ib/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/trading-bot-software/trading-bot-connector-binance/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/trading-bot-software/trading-bot-runner/actions/workflows/build.yml/badge.svg)
