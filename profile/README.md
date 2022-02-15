@@ -1,1 +1,1 @@
-# .github
+![Build](https://github.com/trading-bot-software/trading-bot-common/actions/workflows/build.yml/badge.svg)
