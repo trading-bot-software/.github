@@ -5,6 +5,7 @@
 - <a href="https://github.com/trading-bot-software/trading-bot-connector-binance">![Build](https://github.com/trading-bot-software/trading-bot-connector-binance/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-runner">![Build](https://github.com/trading-bot-software/trading-bot-runner/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence">![Build](https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence/actions/workflows/build.yml/badge.svg)</a>
+- <a href="https://github.com/trading-bot-software/trading-bot-complete">![Build](https://github.com/trading-bot-software/trading-bot-complete/actions/workflows/build.yml/badge.svg)</a>
 
 - <a href="https://github.com/trading-bot-software/trading-bot-ui">![Build](https://github.com/trading-bot-software/trading-bot-ui/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-website">![Build](https://github.com/trading-bot-software/trading-bot-website/actions/workflows/build.yml/badge.svg)</a>
