@@ -3,8 +3,8 @@
 - <a href="https://github.com/trading-bot-software/trading-bot-ohlc">![Build](https://github.com/trading-bot-software/trading-bot-ohlc/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-option">![Build](https://github.com/trading-bot-software/trading-bot-option/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-api">![Build](https://github.com/trading-bot-software/trading-bot-api/actions/workflows/build.yml/badge.svg)</a>
-- <a href="https://github.com/trading-bot-software/trading-bot-connector-ib">![Build](https://github.com/trading-bot-software/trading-bot-connector-ib/actions/workflows/build.yml/badge.svg)</a>
-- <a href="https://github.com/trading-bot-software/trading-bot-connector-binance">![Build](https://github.com/trading-bot-software/trading-bot-connector-binance/actions/workflows/build.yml/badge.svg)</a>
+- <a href="https://github.com/trading-bot-software/trading-bot-ib">![Build](https://github.com/trading-bot-software/trading-bot-ib/actions/workflows/build.yml/badge.svg)</a>
+- <a href="https://github.com/trading-bot-software/trading-bot-binance">![Build](https://github.com/trading-bot-software/trading-bot-binance/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-runner">![Build](https://github.com/trading-bot-software/trading-bot-runner/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence">![Build](https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-complete">![Build](https://github.com/trading-bot-software/trading-bot-complete/actions/workflows/build.yml/badge.svg)</a>
@@ -17,6 +17,6 @@
 - [OHLC](https://trading-bot-software.github.io/trading-bot-ohlc-docs/)
 - [Option](https://trading-bot-software.github.io/trading-bot-option-docs/)
 - [API](https://trading-bot-software.github.io/trading-bot-api-docs/)
-- [Connector IB](https://trading-bot-software.github.io/trading-bot-connector-ib-docs/)
-- [Connector Binance](https://trading-bot-software.github.io/trading-bot-connector-binance-docs/)
+- [IB](https://trading-bot-software.github.io/trading-bot-ib-docs/)
+- [Binance](https://trading-bot-software.github.io/trading-bot-binance-docs/)
 - [Runner](https://trading-bot-software.github.io/trading-bot-runner-docs/)
