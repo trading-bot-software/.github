@@ -15,5 +15,4 @@
 - [API](https://trading-bot-software.github.io/trading-bot-api-docs/)
 - [OHLC](https://trading-bot-software.github.io/trading-bot-ohlc-docs/)
 - [Binance](https://trading-bot-software.github.io/trading-bot-binance-docs/)
-- [Option](https://trading-bot-software.github.io/trading-bot-option-docs/)
 - [IB](https://trading-bot-software.github.io/trading-bot-ib-docs/)
