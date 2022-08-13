@@ -2,7 +2,6 @@
 - <a href="https://github.com/trading-bot-software/trading-bot-common">![Build](https://github.com/trading-bot-software/trading-bot-common/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-api">![Build](https://github.com/trading-bot-software/trading-bot-api/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-ohlc">![Build](https://github.com/trading-bot-software/trading-bot-ohlc/actions/workflows/build.yml/badge.svg)</a>
-- <a href="https://github.com/trading-bot-software/trading-bot-runner">![Build](https://github.com/trading-bot-software/trading-bot-runner/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-binance">![Build](https://github.com/trading-bot-software/trading-bot-binance/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-ib">![Build](https://github.com/trading-bot-software/trading-bot-ib/actions/workflows/build.yml/badge.svg)</a>
 - <a href="https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence">![Build](https://github.com/trading-bot-software/trading-bot-strategy-harmonic-divergence/actions/workflows/build.yml/badge.svg)</a>
@@ -14,7 +13,6 @@
 # Documentation
 - [Common](https://trading-bot-software.github.io/trading-bot-common-docs/)
 - [API](https://trading-bot-software.github.io/trading-bot-api-docs/)
-- [API](https://trading-bot-software.github.io/trading-bot-telegram-docs/)
 - [OHLC](https://trading-bot-software.github.io/trading-bot-ohlc-docs/)
 - [Binance](https://trading-bot-software.github.io/trading-bot-binance-docs/)
 - [Option](https://trading-bot-software.github.io/trading-bot-option-docs/)
